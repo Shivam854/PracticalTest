@@ -1,0 +1,12 @@
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\bin\Debug\net6.0\Test.Data.dll
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\bin\Debug\net6.0\ref\Test.Data.dll
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.dll
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll
+C:\Omschrift\Projects\Test\Test.Data\Test.Data\obj\Debug\net6.0\Test.Data.pdb

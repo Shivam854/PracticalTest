@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEBQgsV3u5Cx49Z8i1fReugvQogwR9O34h1AiZsiYWp5pF87U2brKR52lKx71a2Njyiqg/h0aAugs7bKRsbIjg==",
+  "success": true,
+  "projectFilePath": "C:\\Omschrift\\Projects\\Test\\Test.Domain\\Test.Domain\\Test.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

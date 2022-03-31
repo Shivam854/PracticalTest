@@ -1,0 +1,17 @@
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.deps.json
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.dll
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\ref\Test.dll
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.pdb
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.Data.dll
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.Domain.dll
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.Domain.pdb
+C:\Omschrift\Projects\Test\Test\Test\bin\Debug\net6.0\Test.Data.pdb
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.csproj.CopyComplete
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.dll
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\ref\Test.dll
+C:\Omschrift\Projects\Test\Test\Test\obj\Debug\net6.0\Test.pdb
